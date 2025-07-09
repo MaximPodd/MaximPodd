@@ -20,7 +20,7 @@
 
 
 ### 📊 Статистика GitHub:  
-![Ваш ник](https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical)
+![MaximPodd](https://github-readme-stats.vercel.app/api?username=maximpodd&show_icons=true&theme=radical)
 
 ### 📫 Как со мной связаться:  
 - Telegram: [@UnderWoodes](https://t.me/UnderWoodes)  
