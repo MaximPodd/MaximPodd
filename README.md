@@ -5,17 +5,17 @@
 📚 Изучаю: Machine Learning, Web Development.  
 🎯 Цели: Создать крутой open-source проект.  
 
-🛠 Языки и инструменты:
-https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white
-https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white
-https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white
-https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white
-https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white
-https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white
-https://img.shields.io/badge/-Redash-FA744E?logo=redash&logoColor=white
-https://img.shields.io/badge/-Superset-1F78C1?logo=apache-superset&logoColor=white
-https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white
+### 🛠 Языки и инструменты:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-FA744E?style=for-the-badge&logo=redash&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Superset-1F78C1?style=for-the-badge&logo=apache-superset&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 
 ### 📊 Статистика GitHub:  
