@@ -16,6 +16,7 @@
 ![Redash](https://img.shields.io/badge/Redash-FA744E?style=for-the-badge&logo=redash&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Superset-1F78C1?style=for-the-badge&logo=apache-superset&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 
 
 ### 📊 Статистика GitHub:  
