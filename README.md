@@ -23,6 +23,6 @@
 ![Ваш ник](https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical)
 
 ### 📫 Как со мной связаться:  
-- Telegram: [@UnderWood](https://t.me/UnderWood)  
+- Telegram: [@UnderWoodes](https://t.me/UnderWoodes)  
 - Email: maximpodd@gmail.com  
 
