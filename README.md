@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, меня зовут Максим! 👋  
 
-<!--
-**MaximPodd/MaximPodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Я [род занятий, например, *backend-разработчик* или *студент*].  
+💻 Пишу на: Python, JavaScript, Go (укажите свои языки).  
+📚 Изучаю: Machine Learning, Web Development.  
+🎯 Цели: Создать крутой open-source проект.  
 
-Here are some ideas to get you started:
+### 🔧 Технологии и инструменты:  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Статистика GitHub:  
+![Ваш ник](https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical)
+
+### 📫 Как со мной связаться:  
+- Telegram: [@ваш_ник](https://t.me/ваш_ник)  
+- Email: ваш@email.com  
+
