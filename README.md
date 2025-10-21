@@ -29,7 +29,6 @@
 | [Прогноз DAW](https://github.com/MaximPodd/DA_predictions) | Прогнозирование динамики DAW на месяц, повышение точности через регрессоры и валидация | Python, Orbit |
 | [A/B-тест](https://github.com/MaximPodd/DA_AB_test) | A/B Тестирование нового алгоритма рекомендаций постов | Python, Pandas, Scipy, Numpy|
 | [Система мониторинга метрик в Airflow](https://github.com/MaximPodd/DA_DAG) | Отправка уведомлений о сильном изменении метрик | Superset, SQL, Airflow |
-| [Чат-бот с RAG](ссылка_на_репозиторий) | Генерация ответов на основе собственной базы документов | LangChain, OpenAI, FAISS |
 | [Классификация новостей](https://github.com/MaximPodd/BERT_class) | transfer learning BERT | PyTorch Lightning, ClearML |
 
 
